@@ -1,9 +1,13 @@
-## <Del>
+## Deleted Text Component for React Native
 
 ### Usage
 
 ```
-var Del = require('rect-native-del');
+npm install react-native-del --save
+```
+
+```
+var Del = require('react-native-del');
 
 <View style={{flexDirection: 'row'}}>
     <Del>Deleted text</Del>
