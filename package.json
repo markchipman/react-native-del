@@ -1,0 +1,13 @@
+{
+  "name": "react-native-del",
+  "version": "0.0.2",
+  "description": "Deleted Text Component",
+  "main": "index.js",
+  "author": "Yuanyan Cao",
+  "license": "ISC",
+  "keywords": [
+    "react",
+    "react-native",
+    "del"
+  ]
+}
